@@ -1,4 +1,4 @@
-# Cómo ejecutar la aplicación?
+# Cómo ejecutar la aplicación
 Requisito: Node.js 20 o superior.
 `npm install`.
 
