@@ -1,0 +1,62 @@
+[
+  {
+    "id": "781e75f4-3b4e-40cc-8d89-21c432a633f9",
+    "status": "COMPLETED",
+    "total": 3,
+    "procesados": 3,
+    "exitosos": 3,
+    "fallidos": 0,
+    "detalles": [
+      {
+        "productId": 1,
+        "status": "SUCCESS",
+        "productoId": "a9c03d35-0a10-46e9-b37a-d4b523305b2f",
+        "error": null
+      },
+      {
+        "productId": 2,
+        "status": "SUCCESS",
+        "productoId": "144c0436-4367-43c2-8de2-27adcf0e78bf",
+        "error": null
+      },
+      {
+        "productId": 99999,
+        "status": "SUCCESS",
+        "productoId": "d3897339-33df-4bf6-b10f-3e14665862eb",
+        "error": null
+      }
+    ],
+    "creadoEn": "2026-08-16T21:55:28.465Z",
+    "actualizadoEn": "2026-08-16T21:55:29.268Z"
+  },
+  {
+    "id": "82255219-53ef-4dc3-9442-f5e5d8fd56fd",
+    "status": "COMPLETED",
+    "total": 3,
+    "procesados": 3,
+    "exitosos": 3,
+    "fallidos": 0,
+    "detalles": [
+      {
+        "productId": 1,
+        "status": "SUCCESS",
+        "productoId": "a9c03d35-0a10-46e9-b37a-d4b523305b2f",
+        "error": null
+      },
+      {
+        "productId": 2,
+        "status": "SUCCESS",
+        "productoId": "144c0436-4367-43c2-8de2-27adcf0e78bf",
+        "error": null
+      },
+      {
+        "productId": 99999,
+        "status": "SUCCESS",
+        "productoId": "d3897339-33df-4bf6-b10f-3e14665862eb",
+        "error": null
+      }
+    ],
+    "creadoEn": "2026-08-16T22:03:01.517Z",
+    "actualizadoEn": "2026-08-16T22:03:02.210Z"
+  }
+]
